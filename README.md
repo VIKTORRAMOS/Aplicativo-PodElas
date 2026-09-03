@@ -170,4 +170,4 @@ Antes de distribuir uma versão, teste em um aparelho físico:
 
 Protótipo funcional em desenvolvimento. A configuração do ambiente Flutter,
 Firebase, permissões Android e regras de segurança ainda precisa ser concluída
-e validada antes de uso em produção.
+e validada antes de uso em produção.  BUNGAS
